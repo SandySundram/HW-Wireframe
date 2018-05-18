@@ -25,7 +25,7 @@ body{
     margin-bottom: 10px;
     margin-right: -360px;
     float: left;
-    padding-top: 10px;
+    padding-top: 30px;
 }
 #aside{
     background-color: #ebebeb;
@@ -33,16 +33,16 @@ body{
     height: 290px;
     text-align: center;
     float: right;
-    padding-top: 10px;
+    padding-top: 30px;
 }
 
 #article{
     width: 455px;
-    height: 180px;
+    height: 200px;
     background-color: #777;
     margin: 35px auto auto auto ;
     color: #ebebeb;
-    padding-top: 10px;
+    padding-top: 15px;
     
 }
 #footer{
@@ -65,7 +65,7 @@ body{
     
 }
 #h{
-    margin: 10px auto auto auto ;
+    margin: 25px auto auto auto ;
     
 }
 #p{
